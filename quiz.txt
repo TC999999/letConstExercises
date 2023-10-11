@@ -1,0 +1,12 @@
+1. What is the difference between var and let?
+    var allows you to redeclare variables, let does not allow you to redeclare variables
+
+2. What is the difference between var and const?
+    var allows you to redeclare and reassign variables, const does not allow you to do 
+    either redeclaration or reassignment
+
+3. What is the difference between let and const?
+    let allows you to reassign variables, const does not allow you to reassign variables
+    
+4. What is hoisting?
+    Hoisting is where variables can be used before they are declared. Using var before it is declared leads to an undefined output. Using let or const before it is declared leads to an error
